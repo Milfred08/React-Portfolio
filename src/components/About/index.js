@@ -15,8 +15,8 @@ const About = () => {
         <section className="bio-text">
           <p>
             Milfred Martinez will start working as a DevOps Engineer for Accenture. 
-            his work will focus primarily on supporting, automating and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes.
-            Milfred is pursuing an advanced learning in computer programming at
+            My work will focus primarily on supporting, automating and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes.
+            I am currently pursuing an advanced learning in computer programming at
             Valencia Community College.
           </p>
         </section>
