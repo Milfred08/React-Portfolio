@@ -13,6 +13,6 @@ This repository contains the working version of my portfolio, which is categoriz
 * https://github.com/Milfred08/React-Portfolio
 
 ## GitHub Pages URL
-* ------add here
+* https://milfred08.github.io/React-Portfolio/
 
 ### created by Milfred Martinez
