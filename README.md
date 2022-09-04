@@ -1,0 +1,18 @@
+# React-Portfolio
+
+## Summary
+This repository contains the working version of my portfolio, which is categorized into four sections: 1) About Me; 2) Portfolio; 3) Resume; and 4) Contact . This app is a React-based application that utilizes Javascript, HTML, CSS, and various open-source libraries. Media queries were also employed to enhance the responsiveness of the website's layout.
+
+## Screenshots
+* Screenshot #1 ![React Portfolio Screenshot 1](add link screentshot here)
+* Screenshot #2 ![React Portfolio Screenshot 2](add link screentshot here)
+* Screenshot #3 ![React Portfolio Screenshot 3](add link screentshot here)
+* Screenshot #4 ![React Portfolio Screenshot 4](add link screentshot here)
+
+## GitHub Repository URL
+* https://github.com/Milfred08/React-Portfolio
+
+## GitHub Pages URL
+* ------add here
+
+### created by Milfred Martinez
