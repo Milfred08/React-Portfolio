@@ -23,30 +23,30 @@ const projects = [
        // githubUrl: "//",
        // deployedUrl: "---"
     //},
-   // {
-      //  id: 3,
-     //   title: "V-Care",
-      //  key: "V-Care",
-       // description: "On-The-Go Healthcare Doctor appointments booking for patients, VR Care and Global Prescription Delivery.",
-       // date: "September 2022",
-      //  languages: "Mern Stack",
-       // image: "../../assets/images/Screenshot from 2022-09-21 17-19-11.png",
-      //  imageDescription: "screenshot of V-Care",
-      //  githubUrl: "https://github.com/Milfred08/V-Care-FinalProject/",
-      //  deployedUrl: "https://v--care.herokuapp.com/"
-   // },
+    {
+        id: 3,
+        title: "V-Care",
+        key: "V-Care",
+        description: "On-The-Go Healthcare Doctor appointments booking for patients, VR Care and Global Prescription Delivery.",
+        date: "September 2022",
+        languages: "Mern Stack",
+        image: "../../assets/images/Screenshot from 2022-09-21 17-19-11.PNG",
+        imageDescription: "screenshot of V-Care",
+        githubUrl: "https://github.com/Milfred08/V-Care-FinalProject/",
+        deployedUrl: "https://v--care.herokuapp.com/"
+    },
 
     {
         id: 4,
-        title: "V-Care",
-          key: "V-Care",
-          description: "On-The-Go Healthcare Doctor appointments booking for patients, VR Care and Global Prescription Delivery.",
-          date: "September 2022",
-          languages: "Mern Stack",
-          image: "../../assets/images/Screenshot from 2022-09-21 17-19-11.png",
-          imageDescription: "screenshot of V-Care",
-          githubUrl: "https://github.com/Milfred08/V-Care-FinalProject/",
-          deployedUrl: "https://v--care.herokuapp.com/"
+        title: "Vacation Station",
+        key: "vacation-station",
+        description: "All your needs for foods and rental in one place",
+        date: "August 2022",
+        languages: "Interactive Full-Stack Project",
+        image: "../../assets/images/screenshot-vacation-station.PNG",
+        imageDescription: "Screenshot of Vacation Station App",
+        githubUrl: "https://github.com/maddyrae9/vacation-station/",
+        deployedUrl: "https://vacationstation.herokuapp.com/"
     },
     {
         id: 5,
