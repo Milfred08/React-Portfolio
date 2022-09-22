@@ -30,8 +30,8 @@ const projects = [
         description: "On-The-Go Healthcare Doctor appointments booking for patients, VR Care and Global Prescription Delivery.",
         date: "September 2022",
         languages: "Mern Stack",
-        image: "../../assets/images/home.PNG",
-        imageDescription: "screenshot of V-Care",
+        image: "../../assets/images/screenshot-home.PNG",
+        imageDescription: "screenshot of home",
         githubUrl: "https://github.com/Milfred08/V-Care-FinalProject/",
         deployedUrl: "https://v--care.herokuapp.com/"
     },
