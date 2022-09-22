@@ -23,18 +23,18 @@ const projects = [
        // githubUrl: "//",
        // deployedUrl: "---"
     //},
-   // {
-       // id: 3,
-       // title: "------",
-       // key: "----",
-        //description: "----",
-       // date: "---",
-       // languages: "------",
-       // image: "----",
-       // imageDescription: "-----",
-       // githubUrl: "//",
-       // deployedUrl: "---"
-    //},
+    {
+        id: 3,
+        title: "V-Care",
+        key: "V-Care",
+        description: "On-The-Go Healthcare Doctor appointments booking for patients, VR Care and Global Prescription Delivery.",
+        date: "September 2022",
+        languages: "Mern Stack",
+        image: "../../assets/images/Screenshot from 2022-09-21 17-19-11.png",
+        imageDescription: "screenshot of V-Care",
+        githubUrl: "https://github.com/Milfred08/V-Care-FinalProject",
+        deployedUrl: "https://v--care.herokuapp.com/"
+    },
 
     {
         id: 4,
