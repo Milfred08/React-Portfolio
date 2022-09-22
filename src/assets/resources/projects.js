@@ -32,7 +32,7 @@ const projects = [
         languages: "Mern Stack",
         image: "../../assets/images/Screenshot from 2022-09-21 17-19-11.png",
         imageDescription: "screenshot of V-Care",
-        githubUrl: "https://github.com/Milfred08/V-Care-FinalProject",
+        githubUrl: "https://github.com/Milfred08/V-Care-FinalProject/",
         deployedUrl: "https://v--care.herokuapp.com/"
     },
 
